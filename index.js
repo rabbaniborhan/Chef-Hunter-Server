@@ -5,12 +5,17 @@ app.use(cors());
 const port = process.env.PORT || 5000;
 
 
+
+
+
+const chefdata = require("./chefdata.json")
+
 app.get('/',(req,res)=>{
     res.send('chef is running')
 });
 
 app.get('/chefdata',(req,res)=>{
-    res.send('it is chef data')
+    res.send(chefdata)
 })
 
 

@@ -1,0 +1,156 @@
+{
+    "chefs": [
+      {
+        "id": 1,
+        "picture": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "experience_years": 10,
+        "num_recipes": 20,
+        "likes": 500,
+        "recipes": [
+          {
+            "picture": "https://example.com/recipe1.jpg",
+            "name": "Spicy Chicken",
+            "details": "A delicious and spicy chicken recipe that will make your taste buds sing!"
+          },
+          {
+            "picture": "https://example.com/recipe2.jpg",
+            "name": "Vegetarian Curry",
+            "details": "A healthy and flavorful curry recipe that is perfect for vegetarians."
+          },
+          {
+            "picture": "https://example.com/recipe3.jpg",
+            "name": "Beef Stroganoff",
+            "details": "A classic beef stroganoff recipe that is sure to please."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Alice Johnson",
+        "experience_years": 5,
+        "num_recipes": 15,
+        "likes": 300,
+        "recipes": [
+          {
+            "picture": "https://example.com/recipe4.jpg",
+            "name": "Shrimp Scampi",
+            "details": "A delicious and easy shrimp scampi recipe that is perfect for a quick weeknight dinner."
+          },
+          {
+            "picture": "https://example.com/recipe5.jpg",
+            "name": "Pesto Pasta",
+            "details": "A simple and flavorful pesto pasta recipe that is always a crowd pleaser."
+          },
+          {
+            "picture": "https://example.com/recipe6.jpg",
+            "name": "Mushroom Risotto",
+            "details": "A creamy and delicious mushroom risotto recipe that is perfect for a cozy dinner at home."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "picture": "https://example.com/chef3.jpg",
+        "name": "Emily Brown",
+        "experience_years": 8,
+        "num_recipes": 18,
+        "likes": 450,
+        "recipes": [
+          {
+            "picture": "https://example.com/recipe7.jpg",
+            "name": "Lamb Chops",
+            "details": "A flavorful and juicy lamb chops recipe that is perfect for a special occasion."
+          },
+          {
+            "picture": "https://example.com/recipe8.jpg",
+            "name": "Chicken Pot Pie",
+            "details": "A classic chicken pot pie recipe that is comfort food at its best."
+          },
+          {
+            "picture": "https://example.com/recipe9.jpg",
+            "name": "Grilled Salmon",
+            "details": "A simple and healthy grilled salmon recipe that is perfect for a summer barbecue."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "picture": "https://example.com/chef4.jpg",
+        "name": "David Lee",
+        "experience_years": 12,
+        "num_recipes": 25,
+        "likes": 600,
+        "recipes": [
+          {
+            "picture": "https://example.com/recipe10.jpg",
+            "name": "Beef Tacos",
+            "details": "A delicious and easy beef tacos recipe that is perfect for a fun family dinner."
+          },
+          {
+            "picture": "https://example.com/recipe11.jpg",
+            "name": "Chicken Alfredo",
+            "details": "A creamy and flavorful chicken alfredo recipe that is always a hit."
+          },
+          {
+            "picture": "https://example.com/recipe12.jpg",
+            "name": "Ratatouille",
+            "details": "A hearty and healthy ratatouille recipe that is perfect for vegetarians."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "picture": "https://example.com/chef5.jpg",
+        "name": "Sophie Rodriguez",
+        "experience_years": 6,
+        "num_recipes": 14,
+        "likes": 350,
+        "recipes": [
+          {
+            "picture": "https://example.com/recipe13.jpg",
+            "name": "Shakshuka",
+            "details": "A flavorful and spicy shakshuka recipe that is perfect for brunch."
+          },
+          {
+            "picture": "https://example.com/recipe14.jpg",
+            "name": "Pesto Chicken",
+            "details": "A quick and easy pesto chicken recipe that is perfect for a busy weeknight."
+          },
+          {
+            "picture": "https://example.com/recipe15.jpg",
+            "name": "Baked Ziti",
+            "details": "A classic baked ziti recipe that is always a crowd pleaser."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "picture": "https://example.com/chef6.jpg",
+        "name": "Michael Wong",
+        "experience_years": 15,
+        "num_recipes": 30,
+        "likes": 800,
+        "recipes": [
+          {
+            "picture": "https://example.com/recipe16.jpg",
+            "name": "Beef Wellington",
+            "details": "A fancy and flavorful beef wellington recipe that is perfect for a special occasion."
+          },
+          {
+            "picture": "https://example.com/recipe17.jpg",
+            "name": "Pork Chops",
+            "details": "A juicy and flavorful pork chops recipe that is perfect for a hearty dinner."
+          },
+          {
+            "picture": "https://example.com/recipe18.jpg",
+            "name": "Vegetable Stir Fry",
+            "details": "A healthy and delicious vegetable stir fry recipe that is perfect for a quick weeknight dinner."
+          }
+        ]
+      }
+    ]
+}
+      
+  
