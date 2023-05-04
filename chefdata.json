@@ -1,24 +1,24 @@
  [
       {
         "id": 1,
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
         "name": "John Smith",
         "experience_years": 10,
         "num_recipes": 20,
         "likes": 500,
         "recipes": [
           {
-            "picture": "https://example.com/recipe1.jpg",
+            "picture": "https://www.simplyrecipes.com/thmb/zoY6uivlTEtoYw9WN9Z-Nh0cY5c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__06__Spicy-Fried-Chicken-LEAD-3-24b25010ba0c4737b5fa5957f8f22d0e.jpg",
             "name": "Spicy Chicken",
             "details": "A delicious and spicy chicken recipe that will make your taste buds sing!"
           },
           {
-            "picture": "https://example.com/recipe2.jpg",
+            "picture": "https://www.noracooks.com/wp-content/uploads/2022/08/vegan-curry-6.jpg",
             "name": "Vegetarian Curry",
             "details": "A healthy and flavorful curry recipe that is perfect for vegetarians."
           },
           {
-            "picture": "https://example.com/recipe3.jpg",
+            "picture": "https://www.100daysofrealfood.com/wp-content/uploads/2022/05/Beef-Stroganoff-1200x1600.jpeg",
             "name": "Beef Stroganoff",
             "details": "A classic beef stroganoff recipe that is sure to please."
           }
@@ -26,24 +26,24 @@
       },
       {
         "id": 2,
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://hendi.xcdn.nl/RM700,700/-/560044_12-2021-aj.jpg",
         "name": "Alice Johnson",
         "experience_years": 5,
         "num_recipes": 15,
         "likes": 300,
         "recipes": [
           {
-            "picture": "https://example.com/recipe4.jpg",
+            "picture": "https://www.allrecipes.com/thmb/thovsVI37a98E2Q1BzfhEike5Lw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
             "name": "Shrimp Scampi",
             "details": "A delicious and easy shrimp scampi recipe that is perfect for a quick weeknight dinner."
           },
           {
-            "picture": "https://example.com/recipe5.jpg",
+            "picture": "https://www.cookingclassy.com/wp-content/uploads/2022/02/pesto-pasta-1-1024x1536.jpg",
             "name": "Pesto Pasta",
             "details": "A simple and flavorful pesto pasta recipe that is always a crowd pleaser."
           },
           {
-            "picture": "https://example.com/recipe6.jpg",
+            "picture": "https://cocoandcamellia.com/wp-content/uploads/2021/05/Mushroom-Risotto-Recipe-2.jpg",
             "name": "Mushroom Risotto",
             "details": "A creamy and delicious mushroom risotto recipe that is perfect for a cozy dinner at home."
           }
@@ -51,24 +51,24 @@
       },
       {
         "id": 3,
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://www.escoffier.edu/wp-content/uploads/2016/02/Smiling-female-chef-with-white-hat-and-uniform-in-a-kitchen-e1611773135718.jpg",
         "name": "Emily Brown",
         "experience_years": 8,
         "num_recipes": 18,
         "likes": 450,
         "recipes": [
           {
-            "picture": "https://example.com/recipe7.jpg",
+            "picture": "https://www.seriouseats.com/thmb/7krlJdfnpXB53aqHg-vBSHjiDPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/perfectly-grilled-lamb-rib-or-loin-chops-recipe-hero-03-262fe2defc7c491688cb2d363dad3446.JPG",
             "name": "Lamb Chops",
             "details": "A flavorful and juicy lamb chops recipe that is perfect for a special occasion."
           },
           {
-            "picture": "https://example.com/recipe8.jpg",
+            "picture": "https://www.retrorecipebox.com/wp-content/uploads/2022/04/chicken-pot-pie-casserole-1.jpg",
             "name": "Chicken Pot Pie",
             "details": "A classic chicken pot pie recipe that is comfort food at its best."
           },
           {
-            "picture": "https://example.com/recipe9.jpg",
+            "picture": "https://www.wholesomeyum.com/wp-content/uploads/2021/06/wholesomeyum-how-to-grill-salmon-perfect-grilled-salmon-recipe-4.jpg",
             "name": "Grilled Salmon",
             "details": "A simple and healthy grilled salmon recipe that is perfect for a summer barbecue."
           }
@@ -76,24 +76,24 @@
       },
       {
         "id": 4,
-        "picture": "https://example.com/chef4.jpg",
+        "picture": "https://heychef.ae/wp-content/uploads/2020/10/hey_chef_portraits_5_-2.png",
         "name": "David Lee",
         "experience_years": 12,
         "num_recipes": 25,
         "likes": 600,
         "recipes": [
           {
-            "picture": "https://example.com/recipe10.jpg",
+            "picture": "https://www.modernhoney.com/wp-content/uploads/2023/01/Ground-Beef-Tacos-11-crop-1024x1024.jpg",
             "name": "Beef Tacos",
             "details": "A delicious and easy beef tacos recipe that is perfect for a fun family dinner."
           },
           {
-            "picture": "https://example.com/recipe11.jpg",
+            "picture": "https://hips.hearstapps.com/hmg-prod/images/delish-221130-perfect-chicken-alfredo-0689-eb-1670449996.jpg?crop=1.00xw:0.737xh;0,0.134xh&resize=980:*",
             "name": "Chicken Alfredo",
             "details": "A creamy and flavorful chicken alfredo recipe that is always a hit."
           },
           {
-            "picture": "https://example.com/recipe12.jpg",
+            "picture": "https://www.vibrantplate.com/wp-content/uploads/2022/07/Homemade-Classic-French-Ratatouille-02.jpg.webp",
             "name": "Ratatouille",
             "details": "A hearty and healthy ratatouille recipe that is perfect for vegetarians."
           }
@@ -101,24 +101,24 @@
       },
       {
         "id": 5,
-        "picture": "https://example.com/chef5.jpg",
+        "picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
         "name": "Sophie Rodriguez",
         "experience_years": 6,
         "num_recipes": 14,
         "likes": 350,
         "recipes": [
           {
-            "picture": "https://example.com/recipe13.jpg",
+            "picture": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-11.jpg",
             "name": "Shakshuka",
             "details": "A flavorful and spicy shakshuka recipe that is perfect for brunch."
           },
           {
-            "picture": "https://example.com/recipe14.jpg",
+            "picture": "https://www.budgetbytes.com/wp-content/uploads/2022/03/Creamy-Pesto-Chicken-V1.jpg",
             "name": "Pesto Chicken",
             "details": "A quick and easy pesto chicken recipe that is perfect for a busy weeknight."
           },
           {
-            "picture": "https://example.com/recipe15.jpg",
+            "picture": "https://assets.bonappetit.com/photos/631b47270d376dca32f93400/1:1/w_1920,c_limit/0909-seo-baked-ziti-lede.jpg",
             "name": "Baked Ziti",
             "details": "A classic baked ziti recipe that is always a crowd pleaser."
           }
@@ -126,24 +126,24 @@
       },
       {
         "id": 6,
-        "picture": "https://example.com/chef6.jpg",
+        "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
         "name": "Michael Wong",
         "experience_years": 15,
         "num_recipes": 30,
         "likes": 800,
         "recipes": [
           {
-            "picture": "https://example.com/recipe16.jpg",
+            "picture": "https://www.sainsburysmagazine.co.uk/uploads/media/720x770/07/11157-Wellington.jpg?v=1-0",
             "name": "Beef Wellington",
             "details": "A fancy and flavorful beef wellington recipe that is perfect for a special occasion."
           },
           {
-            "picture": "https://example.com/recipe17.jpg",
+            "picture": "https://hips.hearstapps.com/hmg-prod/images/1520972863-pork-chop-vertical-1662404720.jpg?crop=0.825xw:0.551xh;0.0714xw,0.234xh&resize=980:*",
             "name": "Pork Chops",
             "details": "A juicy and flavorful pork chops recipe that is perfect for a hearty dinner."
           },
           {
-            "picture": "https://example.com/recipe18.jpg",
+            "picture": "https://www.budgetbytes.com/wp-content/uploads/2022/03/Easy-Vegetable-Stir-Fry-V1.jpg",
             "name": "Vegetable Stir Fry",
             "details": "A healthy and delicious vegetable stir fry recipe that is perfect for a quick weeknight dinner."
           }
